@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>¡Todo   
+ sobre los perros salchicha!</title>
+    <link rel="stylesheet" href="styles.css"> </head>
+<body>
+    <header>
+        <h1>El mundo de los perros salchicha</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>¿Por qué amar a un dachshund?</h2>
+            <p>Los perros salchicha, también conocidos como dachshunds, son una raza única y encantadora. Descubre por qué estos perritos de patas cortas se han ganado el corazón de millones de personas en todo el mundo.</p>
+            <img src="imagen-salchicha.jpg" alt="Perro salchicha">
+        </section>
+
+        <section>
+            <h2>Características de los dachshunds</h2>
+            <ul>
+                <li>Cuerpo alargado y patas cortas</li>
+                <li>Personalidad fuerte y decidida</li>
+                <li>Leales y afectuosos con sus familias</li>
+                <li>Inteligentes y fáciles de entrenar</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Cuidados de un perro salchicha</h2>
+            <p>Aprende cómo proporcionar los mejores cuidados a tu dachshund: alimentación, ejercicio, salud y mucho más.</p>
+            <a href="cuidados-salchicha.html">Más información</a>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2023 Todos los derechos reservados. Desarrollado por [Tu nombre]</p>
+    </footer>
+</body>
+</html>
